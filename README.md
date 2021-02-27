@@ -6,5 +6,5 @@ Además tenemos que crear un proyecto en Tableau con las gráficas más interesa
 ## Estructura del proyecto
 
 notebooks: dentro está el jupyter con el Challenge 1 (análisis exploratorio) y el Bonus Challenge (Hypothesis Testing).   
-Tableau: dentro está el enlace al proyecto de Tableau.    
+Tableau: dentro está el enlace al proyecto de Tableau: https://public.tableau.com/profile/jaime3310#!/vizhome/proyecto2_16143806469110/Dashboard1?publish=yes.    
 datos: dentro está el archivo csv del conjunto de datos de diamantes (diamonds_train.csv).
